@@ -1,6 +1,22 @@
 # Overview
 
-...
+In this challenge a number of volunteers have gone out for a run while wearing a prototype device on their shoes, known as the [_wearable, my foot!_](http://wearablemyfoot.tech) device.
+
+This repository contains data files recorded by the runners participating in a virtual race. Specifically, accelerometer and gyroscope readings. There's also a Jupyter notebook with some basic data exploration steps.
+
+## Rules of the race
+
+Runners run for a _fixed duration of time_: `120` seconds. They run in a straight line but there are likely to be gradients involved. The winner is whoever covers the most _distance_ in the allowed time.
+
+Runners also stand still for a short period just before they begin running, and again after they stop. This period of inactivity is in aid of calibration.
+
+## Challenges
+
+* For each runner, draw a distance over time graph.
+* For each runner, draw a graph showing the steepness of their ascent (their gradient) over time.
+* Simulate the race by visualising distance travelled throughout time.
+
+# The data files
 
 # The example notebook
 
