@@ -6,15 +6,15 @@ This repository contains the data files recorded by the runners participating in
 
 ## Rules of the race
 
-Runners run for a _fixed duration of time_: `120` seconds. They each run a course of their choosing, although trying to keep it somewhat straight and level. The winner is whoever covers the most _distance_ in the allowed time.
+Runners run along a route of their choosing for a _fixed duration of time_: `120` seconds. The winner is whoever covers the most _distance_ in the allowed time.
 
 To make the data easier to deal with, runners stand still for a short period pf time just before they begin running, and again after they stop.
 
 ## Challenges
 
 * For each runner, draw a distance over time graph.
-* For each runner, draw a graph showing the steepness of their ascent (their gradient) over time.
 * Simulate the race by visualising distance travelled throughout time.
+* Who won the race?
 
 # The data files
 
