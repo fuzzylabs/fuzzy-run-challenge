@@ -1,14 +1,14 @@
 # Overview
 
-In this challenge a number of volunteers have gone out for a run while wearing a prototype device on their shoes, known as the [_wearable, my foot!_](http://wearablemyfoot.tech) device.
+For this challenge the Fuzzy Labs have competed in a virtual race while wearing some prototype hardware on their shoes, affectionately known as the [_wearable, my foot!_](http://wearablemyfoot.tech) device.
 
-This repository contains data files recorded by the runners participating in a virtual race. Specifically, accelerometer and gyroscope readings. There's also a Jupyter notebook with some basic data exploration steps.
+This repository contains the data files recorded by the runners participating in the race. Specifically, accelerometer and gyroscope readings. There's also a Jupyter notebook with some basic data exploration steps.
 
 ## Rules of the race
 
-Runners run for a _fixed duration of time_: `120` seconds. They run in a straight line but there are likely to be gradients involved. The winner is whoever covers the most _distance_ in the allowed time.
+Runners run for a _fixed duration of time_: `120` seconds. They each run a course of their choosing, although trying to keep it somewhat straight and level. The winner is whoever covers the most _distance_ in the allowed time.
 
-Runners also stand still for a short period just before they begin running, and again after they stop. This period of inactivity is in aid of calibration.
+To make the data easier to deal with, runners stand still for a short period pf time just before they begin running, and again after they stop.
 
 ## Challenges
 
@@ -17,6 +17,12 @@ Runners also stand still for a short period just before they begin running, and 
 * Simulate the race by visualising distance travelled throughout time.
 
 # The data files
+
+There are three data files in the [data](data) directory, recorded by:
+
+* Tom
+* Misha
+* Matt
 
 # The example notebook
 
