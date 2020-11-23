@@ -8,7 +8,7 @@ This repository contains the data files recorded by the runners participating in
 
 Runners run along a route of their choosing for a _fixed duration of time_: `120` seconds. The winner is whoever covers the most _distance_ in the allowed time.
 
-To make the data easier to deal with, runners stand still for a short period pf time just before they begin running, and again after they stop.
+To make the data easier to deal with, runners stand still for a short period of time just before they begin running, and again after they stop.
 
 ## Challenges
 
