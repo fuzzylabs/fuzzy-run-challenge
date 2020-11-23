@@ -24,6 +24,11 @@ There are three data files in the [data](data) directory, recorded by:
 * Misha
 * Matt
 
+Each CSV file has six columns:
+* time -- time from start of a recording (units: milliseconds)
+* aX, aY, aZ -- acceleration measured by the device in X, Y and Z direction respectively (units: g's, where g = 9.8 m/s^2)
+* gX, gY, gZ -- rotation measured by the device around X, Y and Z axis respectively (units: degrees/second)  
+
 # The example notebook
 
 To get you started we have an example [Juptyer](https://jupyter.org) notebook with some basic data exploration for the run recordings. Jupyter is a popular data science environment built around the idea of a 'notebook', which is a portable collection of code along with documentation. Even though we've used Jupyter, feel free to use other tools and languages for this challenge if you prefer.
