@@ -70,7 +70,3 @@ pip install -r requirements.txt
 Activate the virtual environment if you haven't already done so by running `source env/bin/activate`. Run `jupyter notebook`; Jupyter should launch as a server and open in a browser (if not, just navigate to `http://localhost:8888/tree` or the URL reported in the terminal when Jupyter started).
 
 With Jupyter running you can navigate to `notebooks/data-exploration.ipynb`. You can execute all the code in the notebook at once, or step through it cell-by-cell.
-
-## Running the notebook on Google Colab
-
-TODO
